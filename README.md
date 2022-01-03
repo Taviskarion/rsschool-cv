@@ -1,1 +1,1 @@
-# rsschool-cv
+cv: https://taviskaron.github.io/rsschool-cv/cv
