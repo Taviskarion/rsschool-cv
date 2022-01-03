@@ -1,1 +1,1 @@
-cv: https://taviskaron.github.io/rsschool-cv/cv
+https://taviskarion.github.io/rsschool-cv/
